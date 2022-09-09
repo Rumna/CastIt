@@ -7,3 +7,5 @@ This web application automates the casting process for movie directors and short
 - Oracle Database 19c for database
 - JavaScript using React framework for frontend development
 - Selenium using python for automation testing
+# Application demo
+https://youtu.be/_pormFgazK0
