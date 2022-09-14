@@ -9,3 +9,10 @@ This web application automates the casting process for movie directors and short
 - Selenium using python for automation testing
 # Application demo
 https://youtu.be/_pormFgazK0
+# Learning Outcome
+- Agile method of software development
+- Using React JS to develop frontend application
+- Backend application development using Spring Boot with Maven structure
+- Using python selenium for automating testing
+- Deploying code in github
+- Maintating application requirement and documents in Notion
